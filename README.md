@@ -13,4 +13,4 @@
 * Адаптивная вёрстка  
 
 ## **GitHub Pages**  
-[Посмотреть сайт на GitHub Pages](https://captainsharky.github.io/Russia-Travel-Yandex/)
+[Посмотреть сайт на GitHub Pages](https://mv-levi.github.io/Russia-Travel.github.io/)
